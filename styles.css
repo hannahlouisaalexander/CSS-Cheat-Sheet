@@ -4,7 +4,8 @@ body {
   background-color: bisque;
 }
 h1,
-h2 {
+h2,
+footer {
   text-align: center;
 }
 h2 {
@@ -24,4 +25,13 @@ thead {
 td {
   border-top: 1px solid darkolivegreen;
   padding: 4px;
+}
+
+footer {
+  font-size: 14px;
+  color: black;
+}
+
+a {
+  color: darkolivegreen;
 }
